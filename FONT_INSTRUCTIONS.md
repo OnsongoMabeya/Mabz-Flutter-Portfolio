@@ -14,11 +14,13 @@
    - Poppins-Bold.ttf
 
 4. After copying the files, run:
+
    ```bash
    flutter pub get
    ```
 
 5. Then clean and rebuild the project:
+
    ```bash
    flutter clean
    flutter pub get
@@ -27,4 +29,4 @@
 Alternative: You can also modify the pubspec.yaml to use the Google Fonts package instead of local fonts. To do this:
 
 1. Remove the fonts section from pubspec.yaml
-2. The app will automatically use the Google Fonts package that's already included in the dependencies. 
+2. The app will automatically use the Google Fonts package that's already included in the dependencies.
