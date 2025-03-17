@@ -1,6 +1,7 @@
 # Font Installation Instructions
 
 1. Download the Poppins font family from Google Fonts:
+
    - Visit: https://fonts.google.com/specimen/Poppins
    - Click "Download family"
 
